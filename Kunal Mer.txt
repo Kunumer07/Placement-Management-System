@@ -1,1 +1,4 @@
 Kunal Mer
+
+git config --global user.email "krunalmer715@gmail.com"
+git config --global user.name "Kunumer07"
